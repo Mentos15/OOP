@@ -1,0 +1,10 @@
+C:\Users\Виталий\ООП\2 laba\test\test\bin\Debug\test.exe.config
+C:\Users\Виталий\ООП\2 laba\test\test\bin\Debug\test.exe
+C:\Users\Виталий\ООП\2 laba\test\test\bin\Debug\test.pdb
+C:\Users\Виталий\ООП\2 laba\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Виталий\ООП\2 laba\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\ООП\2 laba\test\test\obj\Debug\test.exe
+C:\Users\Виталий\ООП\2 laba\test\test\obj\Debug\test.pdb
+C:\Users\Виталий\ООП\2 laba\test\test\bin\Debug\System.ValueTuple.dll
+C:\Users\Виталий\ООП\2 laba\test\test\bin\Debug\System.ValueTuple.xml
+C:\Users\Виталий\ООП\2 laba\test\test\obj\Debug\test.csproj.CopyComplete
