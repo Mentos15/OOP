@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <ColStr>172</ColStr>
+    <Name>English</Name>
+    <Janr>Ucheba</Janr>
+    <Year>2001</Year>
+  </Book>
+  <Book>
+    <ColStr>51</ColStr>
+    <Name>Russian</Name>
+    <Janr>Ucheba</Janr>
+    <Year>2001</Year>
+  </Book>
+  <Book>
+    <ColStr>113</ColStr>
+    <Name>Belarusian</Name>
+    <Janr>Ucheba</Janr>
+    <Year>1993</Year>
+  </Book>
+</ArrayOfBook>

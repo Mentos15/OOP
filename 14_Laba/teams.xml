@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<teams>
+  <team name="Arsenal">
+    <league>APL</league>
+    <leader>Ozil</leader>
+  </team>
+  <team name="Barselona">
+    <league>APL</league>
+    <leader>Messi</leader>
+  </team>
+</teams>

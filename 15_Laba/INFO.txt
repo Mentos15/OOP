@@ -1,0 +1,646 @@
+Id: 6032
+Process name: svchost
+
+Id: 5940
+Process name: ServiceHub.Host.CLR.x86
+Start at: 20.12.2019 13:42:52
+
+Id: 2580
+Process name: dwm
+
+Id: 1716
+Process name: DolbyDAX2API
+
+Id: 4728
+Process name: svchost
+
+Id: 4296
+Process name: nisvcloc
+
+Id: 10788
+Process name: cmd
+Start at: 20.12.2019 14:25:46
+
+Id: 2996
+Process name: svchost
+
+Id: 2564
+Process name: svchost
+
+Id: 9028
+Process name: conhost
+Start at: 20.12.2019 14:25:46
+
+Id: 1700
+Process name: svchost
+
+Id: 3420
+Process name: RtkAudioService64
+
+Id: 7296
+Process name: dllhost
+
+Id: 10312
+Process name: smartscreen
+Start at: 20.12.2019 13:40:31
+
+Id: 7352
+Process name: SystemSettings
+Start at: 20.12.2019 13:45:47
+
+Id: 8152
+Process name: mcapexe
+
+Id: 824
+Process name: wininit
+
+Id: 2116
+Process name: svchost
+
+Id: 12028
+Process name: svchost
+
+Id: 10792
+Process name: RAVBg64
+Start at: 20.12.2019 13:39:58
+
+Id: 5128
+Process name: svchost
+
+Id: 10296
+Process name: YourPhone
+Start at: 20.12.2019 13:39:54
+
+Id: 6844
+Process name: svchost
+
+Id: 4256
+Process name: lktsrv
+
+Id: 7200
+Process name: notepad
+Start at: 20.12.2019 14:20:18
+
+Id: 2668
+Process name: svchost
+
+Id: 5972
+Process name: mfefire
+
+Id: 3816
+Process name: svchost
+
+Id: 10280
+Process name: svchost
+Start at: 20.12.2019 13:39:35
+
+Id: 12432
+Process name: RAVBg64
+
+Id: 2904
+Process name: svchost
+
+Id: 11568
+Process name: SgrmBroker
+
+Id: 4240
+Process name: lkads
+
+Id: 5100
+Process name: mfevtps
+
+Id: 2512
+Process name: igfxCUIService
+
+Id: 1216
+Process name: chrome
+Start at: 20.12.2019 13:48:31
+
+Id: 2828
+Process name: svchost
+
+Id: 1640
+Process name: svchost
+
+Id: 2932
+Process name: svchost
+
+Id: 4224
+Process name: lkcitdl
+
+Id: 2068
+Process name: svchost
+
+Id: 8528
+Process name: RuntimeBroker
+Start at: 20.12.2019 13:39:46
+
+Id: 8096
+Process name: NisSrv
+
+Id: 7664
+Process name: svchost
+Start at: 20.12.2019 13:41:27
+
+Id: 12404
+Process name: winlogon
+
+Id: 1196
+Process name: svchost
+
+Id: 2488
+Process name: svchost
+
+Id: 12400
+Process name: PerfWatson2
+Start at: 20.12.2019 13:42:30
+
+Id: 8088
+Process name: mfefire
+
+Id: 11104
+Process name: SkypeBackgroundHost
+Start at: 20.12.2019 13:39:54
+
+Id: 1188
+Process name: AdobeUpdateService
+
+Id: 4632
+Process name: SynTPHelper
+Start at: 20.12.2019 13:39:35
+
+Id: 4200
+Process name: Lenovo.Modern.ImController
+
+Id: 3336
+Process name: svchost
+
+Id: 724
+Process name: csrss
+
+Id: 1608
+Process name: svchost
+
+Id: 9364
+Process name: svchost
+
+Id: 1272
+Process name: svchost
+
+Id: 6776
+Process name: RuntimeBroker
+Start at: 20.12.2019 13:41:02
+
+Id: 2912
+Process name: svchost
+
+Id: 1600
+Process name: svchost
+
+Id: 13236
+Process name: SecurityHealthSystray
+Start at: 20.12.2019 13:40:32
+
+Id: 8924
+Process name: sihost
+Start at: 20.12.2019 13:39:26
+
+Id: 732
+Process name: svchost
+
+Id: 300
+Process name: fontdrvhost
+
+Id: 13036
+Process name: notepad
+Start at: 20.12.2019 14:20:53
+
+Id: 2020
+Process name: svchost
+
+Id: 4172
+Process name: NVDisplay.Container
+
+Id: 4636
+Process name: devenv
+Start at: 20.12.2019 13:42:17
+
+Id: 8480
+Process name: CLMLSvc_P2G8
+Start at: 20.12.2019 13:44:28
+
+Id: 8048
+Process name: chrome
+Start at: 20.12.2019 13:48:31
+
+Id: 3736
+Process name: AGMService
+
+Id: 9768
+Process name: RuntimeBroker
+Start at: 20.12.2019 13:45:11
+
+Id: 1576
+Process name: svchost
+
+Id: 4160
+Process name: svchost
+
+Id: 12372
+Process name: RAVBg64
+Start at: 20.12.2019 13:39:58
+
+Id: 12688
+Process name: RuntimeBroker
+Start at: 20.12.2019 13:40:32
+
+Id: 8896
+Process name: svchost
+
+Id: 1136
+Process name: svchost
+
+Id: 2428
+Process name: svchost
+
+Id: 8020
+Process name: svchost
+
+Id: 7156
+Process name: HostAppServiceUpdater
+Start at: 20.12.2019 13:41:28
+
+Id: 4568
+Process name: MsMpEng
+
+Id: 10168
+Process name: ShellExperienceHost
+Start at: 20.12.2019 13:39:42
+
+Id: 4132
+Process name: svchost
+
+Id: 1544
+Process name: fontdrvhost
+
+Id: 8008
+Process name: chrome
+Start at: 20.12.2019 13:48:18
+
+Id: 9300
+Process name: chrome
+Start at: 20.12.2019 13:48:21
+
+Id: 3264
+Process name: svchost
+
+Id: 3004
+Process name: Memory Compression
+
+Id: 4120
+Process name: svchost
+
+Id: 5840
+Process name: unsecapp
+
+Id: 2820
+Process name: svchost
+
+Id: 4112
+Process name: IntelCpHDCPSvc
+
+Id: 8852
+Process name: ctfmon
+Start at: 20.12.2019 13:39:29
+
+Id: 1092
+Process name: svchost
+
+Id: 1088
+Process name: svchost
+Start at: 20.12.2019 13:39:27
+
+Id: 3668
+Process name: svchost
+
+Id: 3664
+Process name: svchost
+
+Id: 2920
+Process name: svchost
+
+Id: 1936
+Process name: dasHost
+
+Id: 10984
+Process name: McCSPServiceHost
+
+Id: 1928
+Process name: svchost
+Start at: 20.12.2019 13:39:27
+
+Id: 11920
+Process name: svchost
+
+Id: 4080
+Process name: AGSService
+
+Id: 1920
+Process name: svchost
+
+Id: 9676
+Process name: svchost
+
+Id: 1668
+Process name: notepad
+Start at: 20.12.2019 14:22:40
+
+Id: 4068
+Process name: svchost
+
+Id: 10100
+Process name: chrome
+Start at: 20.12.2019 13:48:18
+
+Id: 8804
+Process name: dllhost
+Start at: 20.12.2019 13:40:55
+
+Id: 5672
+Process name: conhost
+Start at: 20.12.2019 13:42:48
+
+Id: 4060
+Process name: svchost
+
+Id: 1040
+Process name: VBCSCompiler
+Start at: 20.12.2019 14:18:07
+
+Id: 13104
+Process name: svchost
+
+Id: 6636
+Process name: svchost
+
+Id: 2756
+Process name: NVDisplay.Container
+
+Id: 4476
+Process name: hasplms
+
+Id: 11800
+Process name: svchost
+
+Id: 592
+Process name: svchost
+
+Id: 8880
+Process name: Lenovo.Modern.ImController.PluginHost.SettingsApp
+Start at: 20.12.2019 13:44:35
+
+Id: 4468
+Process name: svchost
+
+Id: 6620
+Process name: ServiceHub.IdentityHost
+Start at: 20.12.2019 13:43:51
+
+Id: 1876
+Process name: svchost
+
+Id: 1444
+Process name: svchost
+
+Id: 4460
+Process name: svchost
+
+Id: 2732
+Process name: svchost
+
+Id: 3592
+Process name: ServiceHub.Host.Node.x86
+Start at: 20.12.2019 13:42:47
+
+Id: 6608
+Process name: SynTPEnh
+Start at: 20.12.2019 13:39:26
+
+Id: 6604
+Process name: ServiceHub.RoslynCodeAnalysisService32
+Start at: 20.12.2019 13:43:18
+
+Id: 4448
+Process name: svchost
+
+Id: 4876
+Process name: IntelCpHeciSvc
+
+Id: 11768
+Process name: ServiceHub.SettingsHost
+Start at: 20.12.2019 13:43:56
+
+Id: 4440
+Process name: svchost
+
+Id: 10900
+Process name: taskhostw
+Start at: 20.12.2019 13:39:28
+
+Id: 4432
+Process name: svchost
+
+Id: 2276
+Process name: svchost
+
+Id: 116
+Process name: Lenovo.Modern.ImController.PluginHost.CompanionApp
+Start at: 20.12.2019 13:44:42
+
+Id: 11752
+Process name: chrome
+Start at: 20.12.2019 13:48:21
+
+Id: 4424
+Process name: chrome
+Start at: 20.12.2019 13:48:35
+
+Id: 5284
+Process name: explorer
+Start at: 20.12.2019 13:39:33
+
+Id: 2248
+Process name: svchost
+
+Id: 7868
+Process name: igfxEM
+Start at: 20.12.2019 13:39:30
+
+Id: 11744
+Process name: conhost
+Start at: 20.12.2019 14:06:42
+
+Id: 4416
+Process name: mfevtps
+
+Id: 4844
+Process name: RAVCpl64
+Start at: 20.12.2019 13:40:41
+
+Id: 13032
+Process name: svchost
+
+Id: 2256
+Process name: SearchIndexer
+
+Id: 6996
+Process name: svchost
+
+Id: 4408
+Process name: ibtsiva
+
+Id: 96
+Process name: Registry
+
+Id: 11300
+Process name: Laba_15
+Start at: 20.12.2019 14:25:46
+
+Id: 3972
+Process name: spoolsv
+
+Id: 4504
+Process name: svchost
+
+Id: 5256
+Process name: svchost
+
+Id: 4392
+Process name: OfficeClickToRun
+
+Id: 1804
+Process name: svchost
+
+Id: 6544
+Process name: PresentationFontCache
+
+Id: 5144
+Process name: SearchUI
+Start at: 20.12.2019 13:39:46
+
+Id: 7340
+Process name: chrome
+Start at: 20.12.2019 13:48:19
+
+Id: 6156
+Process name: Lenovo.Modern.ImController.PluginHost.Device
+Start at: 20.12.2019 13:44:38
+
+Id: 10848
+Process name: conhost
+Start at: 20.12.2019 14:18:08
+
+Id: 932
+Process name: WUDFHost
+
+Id: 7396
+Process name: svchost
+
+Id: 1792
+Process name: svchost
+
+Id: 5236
+Process name: chrome
+Start at: 20.12.2019 13:48:34
+
+Id: 3508
+Process name: MSBuild
+Start at: 20.12.2019 14:06:40
+
+Id: 920
+Process name: lsass
+
+Id: 4288
+Process name: mfemms
+
+Id: 68
+Process name: svchost
+
+Id: 11692
+Process name: svchost
+
+Id: 9212
+Process name: SkypeApp
+Start at: 20.12.2019 13:39:54
+
+Id: 9096
+Process name: chrome
+Start at: 20.12.2019 13:48:37
+
+Id: 1764
+Process name: svchost
+
+Id: 4348
+Process name: SynTPEnhService
+
+Id: 9948
+Process name: WindowsInternal.ComposableShell.Experiences.TextInput.InputApp
+Start at: 20.12.2019 14:06:27
+
+Id: 896
+Process name: services
+
+Id: 1324
+Process name: svchost
+
+Id: 8044
+Process name: ApplicationFrameHost
+Start at: 20.12.2019 13:45:47
+
+Id: 3908
+Process name: conhost
+
+Id: 1320
+Process name: svchost
+
+Id: 2180
+Process name: SecurityHealthService
+
+Id: 2028
+Process name: ServiceHub.VSDetouredHost
+Start at: 20.12.2019 13:42:52
+
+Id: 4760
+Process name: svchost
+
+Id: 2172
+Process name: svchost
+
+Id: 4324
+Process name: NvTelemetryContainer
+
+Id: 444
+Process name: smss
+
+Id: 7344
+Process name: svchost
+
+Id: 4320
+Process name: csrss
+
+Id: 3888
+Process name: wlanext
+
+Id: 3456
+Process name: RuntimeBroker
+Start at: 20.12.2019 13:39:51
+
+Id: 4
+Process name: System
+
+Id: 4312
+Process name: nidmsrv
+
+Id: 3880
+Process name: svchost
+

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ColStr>124</ColStr>
+  <Name>Math</Name>
+  <Janr>School</Janr>
+  <Year>2007</Year>
+</Book>
